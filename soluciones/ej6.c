@@ -1,5 +1,4 @@
 #include <stdio.h>
-#define pf printf
 //Ejercicio 6
 
 int main(){
